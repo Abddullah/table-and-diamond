@@ -1,0 +1,12 @@
+body
+{background-image: url("images/background.png");
+background-repeat: no-repeat;
+background-size: 100%;
+color:brown;
+font-size:200%;
+}
+
+
+h1 {color: gold;
+text-shadow: 3px 3px 8px gray}
+
